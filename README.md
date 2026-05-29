@@ -11,8 +11,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Focusing-black?style=for-the-badge&logo=github&logoColor=white&labelColor=111827&color=f59e0b"/>
-</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
