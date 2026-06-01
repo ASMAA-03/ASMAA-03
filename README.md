@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=Hello-There&theme=shadow&color=%23a8a8a8&particleColor=%23000000&background=%23707070)
+![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=Hello-World&theme=shadow&color=%23a8a8a8&particleColor=%23000000&background=%23707070)
 
 # GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=ASMAA-03&theme=dark&hide_border=false)<br/>
