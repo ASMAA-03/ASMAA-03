@@ -8,4 +8,4 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='10px"'>
 
-![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=505&theme=shadow&color=%23a8a8a8&particleColor=%23000000&background=%23707070)
+![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=Hello-There&theme=shadow&color=%23a8a8a8&particleColor=%23000000&background=%23707070)
