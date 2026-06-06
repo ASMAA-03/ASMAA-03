@@ -13,17 +13,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASMAA-03&theme=tokyo-night&bg_color=0D1117&color=4facfe&line=4facfe&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ASMAA-03/ASMAA-03/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ASMAA-03/ASMAA-03/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/ASMAA-03/ASMAA-03/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
 </div>
 
 
