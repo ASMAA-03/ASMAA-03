@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=...SE...&theme=shadow&color=%23a8a8a8&particleColor=%23000000&background=%23707070)
+![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=..............&theme=shadow&color=%23a8a8a8&particleColor=%23000000&background=%23707070)
 </br>
 # GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=ASMAA-03&theme=blue_navy&hide_border=false)<br/>
